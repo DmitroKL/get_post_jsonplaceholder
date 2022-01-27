@@ -1,7 +1,7 @@
 # get_post_jsonplaceholder
 
  GET POST и JSONPlaceholder 
- *Android Studio 4.1.2*
+ (*Android Studio 4.1.2*)
 
 ## Getting Started
 
